@@ -1,0 +1,15 @@
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.exe
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.deps.json
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugarExercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugarExercise.dll
